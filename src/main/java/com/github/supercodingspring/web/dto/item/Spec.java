@@ -1,4 +1,4 @@
-package com.github.supercodingspring.web.dto;
+package com.github.supercodingspring.web.dto.item;
 
 public class Spec {
     private String cpu;

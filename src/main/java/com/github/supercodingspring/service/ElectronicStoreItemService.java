@@ -4,9 +4,9 @@ import com.github.supercodingspring.repository.items.ElectronicStoreItemReposito
 import com.github.supercodingspring.repository.items.ItemEntity;
 import com.github.supercodingspring.repository.storeSales.StoreSales;
 import com.github.supercodingspring.repository.storeSales.StoreSalesRepository;
-import com.github.supercodingspring.web.dto.BuyOrder;
-import com.github.supercodingspring.web.dto.Item;
-import com.github.supercodingspring.web.dto.ItemBody;
+import com.github.supercodingspring.web.dto.item.BuyOrder;
+import com.github.supercodingspring.web.dto.item.Item;
+import com.github.supercodingspring.web.dto.item.ItemBody;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 

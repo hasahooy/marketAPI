@@ -2,8 +2,8 @@ package com.github.supercodingspring.web.controller;
 
 import com.github.supercodingspring.repository.items.ElectronicStoreItemRepository;
 import com.github.supercodingspring.repository.items.ItemEntity;
-import com.github.supercodingspring.web.dto.Item;
-import com.github.supercodingspring.web.dto.ItemBody;
+import com.github.supercodingspring.web.dto.item.Item;
+import com.github.supercodingspring.web.dto.item.ItemBody;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
